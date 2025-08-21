@@ -1,0 +1,16 @@
+# OpenAI API client
+openai>=0.27.0
+
+# Audio processing
+pyaudio
+sounddevice
+numpy
+
+# Environment variables
+python-dotenv
+
+# Web interface for testing
+streamlit
+
+# Standard library modules (included with Python)
+# wave, io, threading, time, os, typing
