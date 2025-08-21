@@ -11,6 +11,7 @@ python-dotenv
 
 # Web interface for testing
 streamlit
+sounddevice
 
 # Standard library modules (included with Python)
 # wave, io, threading, time, os, typing
